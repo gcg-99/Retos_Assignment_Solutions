@@ -16,6 +16,9 @@ FILES I HAVE CREATED:
   - The main script that uses the previous 2 scripts to make the report is:
       make_report.rb --> creates a new file called report.txt
 
+  - The report file with the interactions is:
+      report.txt
+
 
 ### Final program to execute: $ ruby make_report.rb
 =end
